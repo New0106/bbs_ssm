@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>错误</title>
+<title>错误显示</title>
 </head>
 <body>
 	<%=exception %>
